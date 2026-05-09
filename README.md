@@ -19,15 +19,6 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🌟 Valoro la honestidad y la transparencia en todas mis relaciones y comunicaciones.
-
-- 🌱 Me esfuerzo por mantener un equilibrio saludable entre mi vida profesional y personal.
-
-- 📚 Disfruto compartiendo mis conocimientos.
-
-- 💪 Creo en la importancia del trabajo en equipo y la colaboración para alcanzar metas comunes.
-
-- 🎶 La música es una gran fuente de inspiración para mí; me encanta descubrir nuevos artistas y géneros musicales.
 
 <br>
 <h3 align="left">Contáctame:</h3>
